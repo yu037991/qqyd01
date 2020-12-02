@@ -53,6 +53,38 @@ const cookiesArr = [
       mpversion: "0.30.0",
     }),
   }
+  {
+    qqreadheaderVal: JSON.stringify({
+      ywsession: "wfr2ov3t3q83bybbwdw1kvzqae53udsf",
+      Cookie:
+        "ywguid=1038154816;ywkey=ywEq0qRMFDJz;platform=android;channel=mqqmina;mpVersion=0.30.0",
+      Connection: "keep-alive",
+      "Content-Type": "application/json",
+      Accept: "*/*",
+      Host: "mqqapi.reader.qq.com",
+      "User-Agent": "Mozilla%2F5.0+%28Linux%3B+Android+8.0.0%3B+MI+5s+Build%2FOPR1.170623.032%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F71.0.3578.99+Mobile+Safari%2F537.36 QQ/8.4.18.4945 V1_AND_SQ_8.4.18_1558_YYB_D QQ/MiniApp",
+      Referer: "https://appservice.qq.com/1110657249/0.30.0/page-frame.html",
+      "Accept-Language": "zh-cn",
+      "Accept-Encoding": "gzip, deflate, br",
+      mpversion: "0.30.0",
+    }),
+    qqreadtimeurlVal:
+      "https://mqqapi.reader.qq.com/mqq/addReadTimeWithBid?scene=3001&refer=-1&bid=27581758&readTime=11227&read_type=0&conttype=1&read_status=0&chapter_info=%5B%7B%221%22%3A%7B%22readTime%22%3A11227%2C%22pay_status%22%3A0%2C%22is_tail%22%3A0%7D%7D%5D&sp=-1",
+    qqreadtimeheaderVal: JSON.stringify({
+      ywsession: "wfr2ov3t3q83bybbwdw1kvzqae53udsf",
+      Cookie:
+        "ywguid=1038154816;ywkey=ywEq0qRMFDJz;platform=android;channel=mqqmina;mpVersion=0.30.0;qq_ver=8.4.18.4945;os_ver=Android 8.0.0;mpos_ver=1.21.0;platform=android;openid=91A8749BD9303AFDC89B5A1F515B616C",
+      Connection: "keep-alive",
+      "Content-Type": "application/json",
+      Accept: "*/*",
+      Host: "mqqapi.reader.qq.com",
+      "User-Agent": " Mozilla%2F5.0+%28Linux%3B+Android+8.0.0%3B+MI+5s+Build%2FOPR1.170623.032%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F71.0.3578.99+Mobile+Safari%2F537.36 QQ/8.4.18.4945 V1_AND_SQ_8.4.18_1558_YYB_D QQ/MiniApp",
+      Referer: "https://appservice.qq.com/1110657249/0.30.0/page-frame.html",
+      "Accept-Language": "zh-cn",
+      "Accept-Encoding": "gzip, deflate, br",
+      mpversion: "0.30.0",
+    }),
+  }
 ];
 
 var tz = "";
