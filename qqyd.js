@@ -52,7 +52,7 @@ const cookiesArr = [
       "Accept-Encoding": "gzip, deflate, br",
       mpversion: "0.30.0",
     }),
-  }
+  },
   {
     qqreadheaderVal: JSON.stringify({
       ywsession: "wfr2ov3t3q83bybbwdw1kvzqae53udsf",
