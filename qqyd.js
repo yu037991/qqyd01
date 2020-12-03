@@ -69,7 +69,7 @@ const cookiesArr = [
       mpversion: "0.30.0",
     }),
     qqreadtimeurlVal:
-      "https://mqqapi.reader.qq.com/mqq/addReadTimeWithBid?scene=3001&refer=-1&bid=27581758&readTime=11227&read_type=0&conttype=1&read_status=0&chapter_info=%5B%7B%221%22%3A%7B%22readTime%22%3A11227%2C%22pay_status%22%3A0%2C%22is_tail%22%3A0%7D%7D%5D&sp=-1",
+      "https://mqqapi.reader.qq.com/mqq/addReadTimeWithBid?scene=1007&refer=-1&bid=26878703&readTime=5083&read_type=0&conttype=1&read_status=0&chapter_info=%5B%7B%221%22%3A%7B%22readTime%22%3A5083%2C%22pay_status%22%3A0%7D%7D%5D&sp=-1",
     qqreadtimeheaderVal: JSON.stringify({
       ywsession: "wfr2ov3t3q83bybbwdw1kvzqae53udsf",
       Cookie:
